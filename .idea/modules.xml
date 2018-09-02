@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BaiduTranslatePlugin.iml" filepath="$PROJECT_DIR$/BaiduTranslatePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LsToolsPlugin.iml" filepath="$PROJECT_DIR$/LsToolsPlugin.iml" />
     </modules>
   </component>
 </project>

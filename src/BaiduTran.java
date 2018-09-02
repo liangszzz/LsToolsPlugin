@@ -25,7 +25,7 @@ public class BaiduTran implements ApplicationComponent {
     @Override
     @NotNull
     public String getComponentName() {
-        return "Hello";
+        return "translation";
     }
 
     public String query(String query){
